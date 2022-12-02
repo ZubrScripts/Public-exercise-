@@ -281,7 +281,7 @@ box
 
 
 
-@media (min-width: 992px){
+@media (min-width: 768px){
   .boxes{
     grid-template-columns: 300px 400px;
     justify-content: center;
